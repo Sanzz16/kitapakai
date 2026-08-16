@@ -3,10 +3,12 @@
   "title": "What news",
   "items": [
     {
-      "image": "",
-      "name": "UPDATED SKIN ALL JJK",
-      "tag": "UPDATE",
-      "desc": "REVAMP"
+  "hero_name": "Xavier",
+  "skin_name": "Nama Skin",
+  "image": "URL gambar",
+  "head": "URL gambar kepala Xavier",
+  "script": "URL file ZIP",
+  "hero_id": "xavier"
     }
   ]
 }
