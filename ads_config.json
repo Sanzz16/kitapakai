@@ -1,7 +1,7 @@
 {
-  "ads_enabled": true,
-  "app_open_enabled": true,
-  "interstitial_enabled": true,
-  "download_interstitial_enabled": true,
+  "ads_enabled": false,
+  "app_open_enabled": false,
+  "interstitial_enabled": false,
+  "download_interstitial_enabled": false,
   "banner_enabled": true
 }
