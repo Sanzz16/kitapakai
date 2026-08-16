@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Chou",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb\u003d20220525164846",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//chou%20backup.zip"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Dragon Boy",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcR-GutNUN7ncAUN6orM0rZpRZ0LbOTZxi--tgnNxYrARiqyJEnGz7paEoc\u0026s\u003d10",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//old%20chou%20epic.zip"
+  },
+  {
+    "name": "Lancelot",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb\u003d20240501053243",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Assassin/lance%20backup.zip?t\u003d2025-01-19T04%3A45%3A16.783Z"
+  },
+  {
+    "name": "Lancelot",
+    "skin_name": "Christmas Carnival",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQpkRfAVjpM66lz5QTXexPN9WDCMTgM5RQASxYopeqAkmMmmfXRjYCRt3o\u0026s\u003d10",
+    "script": "https://github.com/missnapokita/Feb-24-anime/raw/refs/heads/main/lance%20old%20xmas.zip"
+  },
+  {
+    "name": "Lancelot",
+    "skin_name": "Royal Matador",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb\u003d20220525165247",
+    "script": "https://github.com/missnapokita/Feb-24-anime/raw/refs/heads/main/lancelot%20old%20matador.zip"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb\u003d20240605151224",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Assassin/fanny%20backup.zip?t\u003d2025-01-19T04%3A39%3A03.145Z"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Skylark",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQiVZcMhJujjsdCvGcZkv4ra2wk_uhSUwU6VYii2wYJJoToHs8qIAERYJF2\u0026s\u003d10",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//fanny%20old%20sky.zip"
+  }
+]
