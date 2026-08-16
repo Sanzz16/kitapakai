@@ -70,5 +70,13 @@
     "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png",
     "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/13/1300001.zip",
     "hero_id": "guinevere"
+  },
+  {
+    "hero_name": "Xavier",
+    "skin_name": "Satoru Gojo",
+    "image": "https://i.ibb.co.com/67PDS0wX/Screenshot-20260816-123813.jpg",
+    "head": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1151-portrait.png/revision/latest?cb=20220525172250",
+    "script": "https://github.com/Mr-Nutcracker/ntx/raw/main/Xavier/JJK%20Revamped/Xavier%20X%20Satoru%20Replace%20Default%20-%5BK4%2CNutx%2CXvrn%5D.zip",
+    "hero_id": "xavier"
   }
 ]
