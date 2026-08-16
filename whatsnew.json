@@ -1,5 +1,12 @@
 {
   "version": 1,
   "title": "What news",
-  "items": []
+  "items": [
+    {
+      "image": "",
+      "name": "UPDATED SKIN ALL JJK",
+      "tag": "UPDATE",
+      "desc": "REVAMP"
+    }
+  ]
 }
