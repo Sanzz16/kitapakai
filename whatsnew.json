@@ -1,14 +1,12 @@
 {
-  "version": 1,
+  "version": 4664,
   "title": "What news",
   "items": [
     {
-  "hero_name": "Xavier",
-  "skin_name": "Nama Skin",
-  "image": "URL gambar",
-  "head": "URL gambar kepala Xavier",
-  "script": "URL file ZIP",
-  "hero_id": "xavier"
+      "image": "URL gambar",
+      "name": "",
+      "tag": "",
+      "desc": ""
     }
   ]
 }
