@@ -15777,6 +15777,18 @@
           "skin_tags": []
         }
       ]
+    },
+    {
+      "id": "z_d",
+      "hero": "z",
+      "base_name": "d",
+      "base_image": "s",
+      "backup_script": "s",
+      "enabled": true,
+      "skin_tags": [
+        "s"
+      ],
+      "targets": []
     }
   ]
 }
