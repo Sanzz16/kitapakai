@@ -7439,6 +7439,17 @@
             "collector"
           ]
         },
+                {
+          "id": "granger_lightborn_overrider_to_starfall_knight",
+          "name": "Starfall Knight",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero797-portrait.png/revision/latest?cb=20220525165846",
+          "script": "https://github.com/missnapokita/July-24-MM-Upgrade/raw/main/granger%20normal%20to%20collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
+        },
         {
           "id": "granger_bardic_whisper_to_exorcist_granger",
           "name": "Exorcist Granger",
@@ -15777,18 +15788,6 @@
           "skin_tags": []
         }
       ]
-    },
-    {
-      "id": "z_d",
-      "hero": "z",
-      "base_name": "d",
-      "base_image": "s",
-      "backup_script": "s",
-      "enabled": true,
-      "skin_tags": [
-        "s"
-      ],
-      "targets": []
     }
   ]
 }
